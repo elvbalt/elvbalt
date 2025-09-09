@@ -7,7 +7,7 @@
 
 ## 🏆 Sobre mí  
 
-Soy estudiante de Ingeniería Informática en la Universidad Complutense de Madrid, con especialización en Inteligencia Artificial y algoritmia. Mi experiencia académica incluye un programa de movilidad en la Università della Svizzera italiana, donde adquirí conocimientos en desarrollo web, Scrapy y Computer Graphics.  
+Graduada de Ingeniería Informática en la Universidad Complutense de Madrid, con especialización en Inteligencia Artificial y algoritmia. Mi experiencia académica incluye un programa de movilidad en la Università della Svizzera italiana, donde adquirí conocimientos en desarrollo web, Scrapy y Computer Graphics.  
 
 Apasionada por la tecnología, disfruto resolviendo problemas complejos a través del código.
 
